@@ -1,0 +1,16 @@
+﻿/* src/style.css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #17121f;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+#app {
+  min-height: 100vh;
+}
