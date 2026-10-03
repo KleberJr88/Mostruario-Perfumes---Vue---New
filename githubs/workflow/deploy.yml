@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main, perfumes, New-try-perfumes2.0, perfumes-3.0 ]
+    branches: [ '**' ]
 
 permissions:
   contents: read
